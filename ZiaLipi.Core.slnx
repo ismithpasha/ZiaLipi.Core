@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ZiaLipi.Core/ZiaLipi.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ZiaLipi.Core.Tests/ZiaLipi.Core.Tests.csproj" />
+  </Folder>
+</Solution>

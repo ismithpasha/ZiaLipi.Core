@@ -1,0 +1,2909 @@
+[
+ {
+  "input": "ami",
+  "words": [
+   "আমি",
+   "অমি",
+   "আমই",
+   "এমই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "amar",
+  "words": [
+   "আমার",
+   "অমার",
+   "আম্মার",
+   "অম্বার",
+   "অ্যাম্বার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "tumi",
+  "words": [
+   "তুমি",
+   "তুমই",
+   "তুম্বি",
+   "তুম্বী",
+   "তুম্বই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "tomar",
+  "words": [
+   "তমার",
+   "তোমার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "apni",
+  "words": [
+   "আপনি",
+   "আপনই",
+   "আপ্নি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "apnar",
+  "words": [
+   "আপনার",
+   "আপ্নার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "se",
+  "words": [
+   "সে",
+   "শে",
+   "সঃে",
+   "ষে",
+   "শয়ে",
+   "স্বে",
+   "শ্বে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "tara",
+  "words": [
+   "তারা",
+   "তাঁরা",
+   "তাড়া",
+   "টারা",
+   "ত্যাড়া",
+   "ট্যারা",
+   "ট্যাড়া",
+   "ট্যাঁরা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "amra",
+  "words": [
+   "আমরা",
+   "অমরা",
+   "আমড়া",
+   "এমরা",
+   "আম্রা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bangla",
+  "words": [
+   "বাংলা",
+   "বাঙলা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "banglay",
+  "words": [
+   "বাংলায়",
+   "বাঙলায়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bangladesh",
+  "words": [
+   "বাংলাদেশ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bangladeshe",
+  "words": [
+   "বাংলাদেশে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bangladesher",
+  "words": [
+   "বাংলাদেশের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bangladeshi",
+  "words": [
+   "বাংলাদেশি",
+   "বাংলাদেশী",
+   "বাংলাদেশই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bhalo",
+  "words": [
+   "ভাল",
+   "ভঅল",
+   "ভএল",
+   "ভালো",
+   "ভয়াল",
+   "ভালও",
+   "বহাল",
+   "ভঅলও",
+   "ভএলও",
+   "ভয়ালও",
+   "বহালও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bhalobasha",
+  "words": [
+   "ভালবাসা",
+   "ভালোবাসা",
+   "ভালবাশা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bhalobasi",
+  "words": [
+   "ভালবাসি",
+   "ভালোবাসি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "valo",
+  "words": [
+   "ভাল",
+   "ভঅল",
+   "ভএল",
+   "ভালো",
+   "ভয়াল",
+   "ভালও",
+   "ভঅলও",
+   "ভএলও",
+   "ভয়ালও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kemon",
+  "words": [
+   "কেমন",
+   "ক্যামন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "achi",
+  "words": [
+   "আছি",
+   "অছি",
+   "আছই",
+   "আঁচি",
+   "আচই",
+   "আঁচই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "achen",
+  "words": [
+   "আছেন",
+   "আঁচেন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ki",
+  "words": [
+   "কি",
+   "কই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kI",
+  "words": [
+   "কই",
+   "কি",
+   "কী"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kii",
+  "words": [
+   "কিই",
+   "কইই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "koro",
+  "words": [
+   "কর",
+   "কোর",
+   "করো",
+   "কড়",
+   "করও",
+   "ক্রো",
+   "কর্য",
+   "কর্ম",
+   "ক্রয়",
+   "কওরও",
+   "কোরও",
+   "কয়রও",
+   "কড়ও",
+   "কোঁড়",
+   "কোড়য়",
+   "কোঁরও",
+   "কর্যও",
+   "কর্মও",
+   "কোঁড়ও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "korchi",
+  "words": [
+   "করছি",
+   "কড়ছি",
+   "করছই",
+   "কড়ছই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "korbo",
+  "words": [
+   "করব",
+   "করবো",
+   "করবও",
+   "ক্রব্য",
+   "ক্রব্যও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "korechi",
+  "words": [
+   "করেছি",
+   "করেছই",
+   "ক্র্যাচই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kotha",
+  "words": [
+   "কথা",
+   "কোথা",
+   "কোঠা",
+   "কোঁথা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kothay",
+  "words": [
+   "কথায়",
+   "কোথায়",
+   "কোঠায়",
+   "কোঁথায়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kono",
+  "words": [
+   "কন",
+   "কওন",
+   "কোন",
+   "কণ",
+   "কনও",
+   "কোঁ",
+   "কোং",
+   "কোণ",
+   "কওনও",
+   "কোনও",
+   "কণও",
+   "কণ্ব",
+   "ক্বণ",
+   "কোঁও",
+   "কোঙও",
+   "কোণও",
+   "কণ্বও",
+   "ক্বণও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kokhono",
+  "words": [
+   "কখন",
+   "কখনো",
+   "কখনও",
+   "কক্ষন",
+   "কক্ষনো",
+   "কক্ষনও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shob",
+  "words": [
+   "শব",
+   "সব",
+   "শোব",
+   "শ্ব",
+   "স্ব",
+   "সব্য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "sob",
+  "words": [
+   "সব",
+   "স্ব",
+   "শব",
+   "সব্য",
+   "শোব",
+   "শ্ব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shokal",
+  "words": [
+   "সকাল",
+   "শোকাল",
+   "শোঁকাল",
+   "শকাল"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "sokal",
+  "words": [
+   "সকাল",
+   "শোকাল",
+   "শোঁকাল"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bikel",
+  "words": [
+   "বিকেল"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "rat",
+  "words": [
+   "রাত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "din",
+  "words": [
+   "দিন",
+   "দীন",
+   "ডিন",
+   "ডিঙ",
+   "ডীন",
+   "দ্বীন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ajke",
+  "words": [
+   "আজকে",
+   "অজকে",
+   "এজকে",
+   "অ্যাজকে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kalke",
+  "words": [
+   "কালকে",
+   "কয়ালকে",
+   "কাল্কে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "porshu",
+  "words": [
+   "পরশু",
+   "প্রসূ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shonibar",
+  "words": [
+   "শনিবার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "robibar",
+  "words": [
+   "রবিবার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bondhu",
+  "words": [
+   "বন্ধু",
+   "বঁধু"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bondhura",
+  "words": [
+   "বন্ধুরা",
+   "বঁধুরা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "manush",
+  "words": [
+   "মানুষ",
+   "মানুশ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "manusher",
+  "words": [
+   "মানুষের",
+   "মানুশের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "desh",
+  "words": [
+   "দেশ",
+   "ডেশ",
+   "দেশ্য",
+   "ডেস",
+   "দ্বেষ",
+   "ড্যাশ",
+   "দ্বেষ্য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "desher",
+  "words": [
+   "দেশের",
+   "ডেশের",
+   "দেশ্যের",
+   "ডেসের",
+   "দ্বেষের",
+   "ড্যাশের",
+   "দ্বেষ্যের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ma",
+  "words": [
+   "মা",
+   "ম্যা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "baba",
+  "words": [
+   "বাবা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bhai",
+  "words": [
+   "ভাই",
+   "ভঅই",
+   "ভআই",
+   "বহাই",
+   "ভআঁই",
+   "ভ্যাই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bon",
+  "words": [
+   "বন",
+   "বং",
+   "বঅন",
+   "বোন",
+   "বয়ন",
+   "বোঁ",
+   "বন্য",
+   "ব্যয়ন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "boi",
+  "words": [
+   "বই",
+   "বি",
+   "বৈ",
+   "বওই",
+   "বোই",
+   "বয়ই",
+   "বোঁই",
+   "ব্যই",
+   "বয়োই",
+   "ব্যয়ই",
+   "ব্যয়ী"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bOi",
+  "words": [
+   "বোই",
+   "বই",
+   "বওই",
+   "বোঁই",
+   "বয়ই",
+   "বয়োই",
+   "বি",
+   "বৈ",
+   "ব্যই",
+   "ব্যয়ই",
+   "ব্যয়ী"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "pORa",
+  "words": [
+   "পোড়া",
+   "পোরা",
+   "পড়া",
+   "পরা",
+   "পঢ়া",
+   "পয়রা",
+   "পঅরা",
+   "পোঁরা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "pora",
+  "words": [
+   "পরা",
+   "পোরা",
+   "পড়া",
+   "পঢ়া",
+   "পয়রা",
+   "পঅরা",
+   "পোড়া",
+   "পোঁরা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "lekha",
+  "words": [
+   "লেখা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "likhi",
+  "words": [
+   "লিখি",
+   "লিখই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "lekhok",
+  "words": [
+   "লেখক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kobita",
+  "words": [
+   "কবিতা",
+   "কবিটা",
+   "কবয়ীটা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "golpo",
+  "words": [
+   "গল্প",
+   "গল্পও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "gan",
+  "words": [
+   "গান",
+   "গাঁ",
+   "গাং",
+   "গাঙ",
+   "গয়ান",
+   "গ্যাং",
+   "জ্ঞান"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "gai",
+  "words": [
+   "গাই",
+   "গাঁই",
+   "গয়াই",
+   "জ্ঞাই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ekushe",
+  "words": [
+   "একুশে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "fagun",
+  "words": [
+   "ফাগুন",
+   "ফাগুণ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shohid",
+  "words": [
+   "শহিদ",
+   "সহিদ",
+   "শহীদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "minar",
+  "words": [
+   "মিনার",
+   "মিঞার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shadhinota",
+  "words": [
+   "স্বাধীনতা",
+   "স্বাধীনটা",
+   "স্বাদহীনটা",
+   "শাধিনতা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "muktijuddho",
+  "words": [
+   "মুক্তিজুদ্ধ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "juddho",
+  "words": [
+   "জুদ্ধ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "srishti",
+  "words": [
+   "সরিসটি",
+   "সৃষ্টি",
+   "সৃষ্টই",
+   "স্রিশ্তি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kSoma",
+  "words": [
+   "ক্ষমা",
+   "কশমা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khoma",
+  "words": [
+   "ক্ষমা",
+   "খম্বা",
+   "খমা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khOma",
+  "words": [
+   "ক্ষমা",
+   "খম্বা",
+   "খোমা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oikko",
+  "words": [
+   "ঐক্য",
+   "ঐক্যও",
+   "অইক্ক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oitijjho",
+  "words": [
+   "ঐতিহ্য",
+   "ঐতিহ্যও",
+   "অইতিজ্ঝ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "rritu",
+  "words": [
+   "ঋতু"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "Rritu",
+  "words": [
+   "ঋতু",
+   "ড়্রিতু"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "uchchharon",
+  "words": [
+   "উচ্চারণ",
+   "উছছহারন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bigyan",
+  "words": [
+   "বিগ্যান"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "biggan",
+  "words": [
+   "বিজ্ঞান"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "gyan",
+  "words": [
+   "গ্যাং",
+   "গয়ান",
+   "গ্যান"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "jnan",
+  "words": [
+   "জ্ঞান",
+   "জন্মান",
+   "জনান"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "proshno",
+  "words": [
+   "প্রশ্ন",
+   "প্রশ্নও",
+   "পরশন",
+   "পর্যসন",
+   "পরশনও",
+   "পর্যসনও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "uttor",
+  "words": [
+   "উত্তর",
+   "উটর"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "porikkha",
+  "words": [
+   "পরীক্ষা",
+   "পরিখা",
+   "পরিক্ষা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "porikkhay",
+  "words": [
+   "পরীক্ষায়",
+   "পরিখায়",
+   "পরিক্ষায়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shikkhok",
+  "words": [
+   "শিক্ষক",
+   "শিখক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "chhatro",
+  "words": [
+   "ছাত্র",
+   "ছাত্রও",
+   "চাতর",
+   "ছাতরও",
+   "ছাটরও",
+   "ছাঁটরও",
+   "ছাঁতরও",
+   "চাতরও",
+   "চাটরও",
+   "চাঁটরও",
+   "ছ্যাঁতরও",
+   "চ্যাটরও",
+   "চ্যাঁটরও",
+   "ছহাত্র"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "chatro",
+  "words": [
+   "ছাত্র",
+   "ছাত্রও",
+   "চাতর",
+   "ছাতরও",
+   "ছাটরও",
+   "ছাঁটরও",
+   "ছাঁতরও",
+   "চাতরও",
+   "চাটরও",
+   "চাঁটরও",
+   "ছ্যাঁতরও",
+   "চ্যাটরও",
+   "চ্যাঁটরও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "chhatri",
+  "words": [
+   "ছাত্রী",
+   "ছাত্রই",
+   "ছাতরই",
+   "ছাটরই",
+   "ছাঁটরই",
+   "ছাঁতরই",
+   "চাতরই",
+   "চাটরই",
+   "চাঁটরই",
+   "ছ্যাঁতরই",
+   "চ্যাটরই",
+   "চ্যাঁটরই",
+   "ছহাত্রি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bidyaloy",
+  "words": [
+   "বিদ্যালয়",
+   "বিদ্যালয়য়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bishshobidyaloy",
+  "words": [
+   "বিশ্ববিদ্যালয়",
+   "বিশ্ববিদ্যালয়য়",
+   "বিশশবিদ্যালয়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "biswobidyalay",
+  "words": [
+   "বিস্ববিদ্যালায়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "britti",
+  "words": [
+   "বৃত্তি",
+   "বৃত্তই",
+   "বৃতি",
+   "বৃতটি",
+   "বৃত্যটি",
+   "বৃত্যই",
+   "বৃতই",
+   "ব্রিত্তি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "sritu",
+  "words": [
+   "স্রিতু"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "krishok",
+  "words": [
+   "কৃষক",
+   "ক্রিশক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "krishi",
+  "words": [
+   "ক্রিসই",
+   "করিসই",
+   "কৃষি",
+   "করীষই",
+   "কৃশই",
+   "কৃষই",
+   "ক্রিশি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "graam",
+  "words": [
+   "গ্রাম",
+   "গ্রাম্য",
+   "গ্রাআম"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "gram",
+  "words": [
+   "গ্রাম",
+   "গ্রাম্য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shohor",
+  "words": [
+   "শহর",
+   "সহর",
+   "সঃর",
+   "সহ্যর"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "nodi",
+  "words": [
+   "নদী",
+   "নদই",
+   "নডই",
+   "নদি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "pakhi",
+  "words": [
+   "পাখি",
+   "পাখী",
+   "পাখই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "phul",
+  "words": [
+   "ফুল"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ful",
+  "words": [
+   "ফুল"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bagan",
+  "words": [
+   "বাগান"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "akash",
+  "words": [
+   "আকাশ",
+   "আঁকাস"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "batash",
+  "words": [
+   "বাতাস",
+   "বাতাশ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bristi",
+  "words": [
+   "বরিষটি",
+   "বৃষ্টি",
+   "বৃসটি",
+   "বৃষটি",
+   "বৃষ্যটি",
+   "ব্রিস্তি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "brishti",
+  "words": [
+   "বরিষটি",
+   "বৃষ্টি",
+   "বৃষটি",
+   "বৃষ্যটি",
+   "বৃসটি",
+   "ব্রিশ্তি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "megh",
+  "words": [
+   "মেঘ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "roud",
+  "words": [
+   "রুড",
+   "রউদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shit",
+  "words": [
+   "শিত",
+   "সিত",
+   "শিট",
+   "শীত",
+   "সইত",
+   "সিট",
+   "সহিত",
+   "সীট",
+   "স্মিত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "grishmo",
+  "words": [
+   "গ্রীষ্ম",
+   "গ্রীষ্মও",
+   "গ্রিশ্ম"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "borsha",
+  "words": [
+   "বরশা",
+   "বর্শা",
+   "বরষা",
+   "বর্ষা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "sheet",
+  "words": [
+   "শীত",
+   "শিত",
+   "সইত",
+   "সিত",
+   "সীট",
+   "শিট",
+   "সিট",
+   "সহিত",
+   "স্মিত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kolkata",
+  "words": [
+   "কলকাতা",
+   "কল্কাটা",
+   "কোলকাতা",
+   "কলকাটা",
+   "কল্কাতা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dhaka",
+  "words": [
+   "ঢাকা",
+   "ধাকা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "chottogram",
+  "words": [
+   "চট্টগ্রাম",
+   "ছত্তগ্রাম"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "sylhet",
+  "words": [
+   "স্যলহেত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "rajshahi",
+  "words": [
+   "রাজশাহী",
+   "রাজশাহি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khulna",
+  "words": [
+   "খুলনা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "borishal",
+  "words": [
+   "বরিশাল"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "rongpur",
+  "words": [
+   "রংপুর"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "moymonshingho",
+  "words": [
+   "ময়মনশিঙ্ঘ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "computer",
+  "words": [
+   "কম্পিউটার",
+   "চম্পুতের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kompiutar",
+  "words": [
+   "কম্পিউটার",
+   "কম্পিউতার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "internet",
+  "words": [
+   "ইন্টারনেট",
+   "ইন্তেরনেত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "mobile",
+  "words": [
+   "মোবাইল",
+   "মবিলে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "phone",
+  "words": [
+   "ফোন",
+   "ফোনে",
+   "ফণে",
+   "ফনে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "fon",
+  "words": [
+   "ফোন",
+   "ফণ",
+   "ফন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "keyboard",
+  "words": [
+   "কিবোর্ড",
+   "কেয়বয়ারদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "software",
+  "words": [
+   "সফটওয়্যার",
+   "সফটওয়ারে",
+   "সফটওয়্যারে",
+   "সফত্বারে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "x",
+  "words": [
+   "এক্স"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "xon",
+  "words": [
+   "এক্সন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "xyz",
+  "words": [
+   "এক্স্যয"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "t``",
+  "words": [
+   "ৎ",
+   "ত",
+   "ট",
+   "তঁ",
+   "ত্ব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bt``",
+  "words": [
+   "বট",
+   "বৎ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "uthsob",
+  "words": [
+   "উঠসব",
+   "উথসব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "utsob",
+  "words": [
+   "উৎসব",
+   "উটসব",
+   "উতসব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "otishi",
+  "words": [
+   "অতিশি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "odbhut",
+  "words": [
+   "অদ্ভুত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "adbhut",
+  "words": [
+   "অদ্ভুত",
+   "আদ্ভুত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "aaj",
+  "words": [
+   "আজ",
+   "এজ",
+   "অ্যাজ",
+   "আআজ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "aj",
+  "words": [
+   "আজ",
+   "অজ",
+   "এজ",
+   "অ্যাজ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "O",
+  "words": [
+   "ও",
+   "অ",
+   "ওঁ",
+   "ওঃ",
+   "ো",
+   "য়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "o",
+  "words": [
+   "অ",
+   "ও",
+   "ো",
+   "য়",
+   "ওঁ",
+   "ওঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "A",
+  "words": [
+   "আ",
+   "অ",
+   "আঃ",
+   "া",
+   "এ",
+   "অ্যা",
+   "অ্যাঁ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "a",
+  "words": [
+   "আ",
+   "অ",
+   "আঃ",
+   "া",
+   "এ",
+   "অ্যা",
+   "অ্যাঁ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "e",
+  "words": [
+   "এ",
+   "ে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "E",
+  "words": [
+   "এ",
+   "ে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "i",
+  "words": [
+   "ই",
+   "ি",
+   "ঈ",
+   "ী"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "I",
+  "words": [
+   "ঈ",
+   "ই",
+   "ি",
+   "ী"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "u",
+  "words": [
+   "উ",
+   "ু",
+   "উঁ",
+   "উঃ",
+   "ূ",
+   "ঊ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "U",
+  "words": [
+   "ঊ",
+   "ু",
+   "উ",
+   "ূ",
+   "উঁ",
+   "উঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oi",
+  "words": [
+   "অই",
+   "ওই",
+   "োই",
+   "য়ই",
+   "ঐ",
+   "ৈ",
+   "ওঁই",
+   "ওঃই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "OI",
+  "words": [
+   "ঐ",
+   "ৈ",
+   "ওই",
+   "অই",
+   "োই",
+   "য়ই",
+   "ওঁই",
+   "ওঃই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ou",
+  "words": [
+   "উ",
+   "ু",
+   "উঁ",
+   "উঃ",
+   "ূ",
+   "ঊ",
+   "ঔ",
+   "ৌ",
+   "অউ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "OU",
+  "words": [
+   "ঔ",
+   "ু",
+   "উ",
+   "ূ",
+   "ঊ",
+   "ৌ",
+   "উঁ",
+   "উঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "rri",
+  "words": [
+   "ঋ",
+   "ৃ",
+   "ররই",
+   "ড়রই",
+   "ঢ়রই",
+   "রড়ই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ng",
+  "words": [
+   "ঞ",
+   "ঙ",
+   "নগ",
+   "ঙ্গ",
+   "ং"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "NG",
+  "words": [
+   "ঞ",
+   "ঙ",
+   "নগ",
+   "ঙ্গ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khn",
+  "words": [
+   "খন",
+   "খং",
+   "কহন",
+   "খন্য",
+   "ক্ষণ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "sh",
+  "words": [
+   "শ",
+   "স",
+   "ষ",
+   "সঃ",
+   "সহ",
+   "শ্ব",
+   "স্ব",
+   "সহ্য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "Sh",
+  "words": [
+   "ষ",
+   "স",
+   "শ",
+   "সঃ",
+   "সহ",
+   "স্ব",
+   "শ্ব",
+   "সহ্য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "S",
+  "words": [
+   "শ",
+   "স",
+   "ষ",
+   "সঃ",
+   "শ্ব",
+   "স্ব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ss",
+  "words": [
+   "সস",
+   "স",
+   "সঃ",
+   "স্ব",
+   "শ",
+   "শশ",
+   "ষ",
+   "শ্ব",
+   "শস্য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "R",
+  "words": [
+   "ড়",
+   "র",
+   "ঢ়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "Rh",
+  "words": [
+   "ঢ়",
+   "র",
+   "ড়",
+   "রহ",
+   "রহঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "y",
+  "words": [
+   "য়",
+   "ইয়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "Y",
+  "words": [
+   "য়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "w",
+  "words": [
+   "ও",
+   "ওঁ",
+   "ওঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "W",
+  "words": [
+   "ও",
+   "ওঁ",
+   "ওঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "q",
+  "words": [
+   "ক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "Q",
+  "words": [
+   "ক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "z",
+  "words": [
+   "য",
+   "জ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "Z",
+  "words": [
+   "য",
+   "জ",
+   "্য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "j",
+  "words": [
+   "জ",
+   "য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "J",
+  "words": [
+   "জ",
+   "য"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "k",
+  "words": [
+   "ক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "K",
+  "words": [
+   "ক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "n",
+  "words": [
+   "ন",
+   "ঞ",
+   "ঙ",
+   "ণ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "N",
+  "words": [
+   "ণ",
+   "ন",
+   "ঞ",
+   "ঙ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "1234567890",
+  "words": [
+   "১২৩৪৫৬৭৮৯০"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "2024",
+  "words": [
+   "২০২৪"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "100tk",
+  "words": [
+   "১০০তক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": ".",
+  "words": [
+   "।"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "..",
+  "words": [
+   "।।"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "...",
+  "words": [
+   "..."
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": ",,",
+  "words": [
+   "্‌"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ki?",
+  "words": [
+   "কি?",
+   "কই?"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ki!",
+  "words": [
+   "কি!",
+   "কই!"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kemon,",
+  "words": [
+   "কেমন,",
+   "ক্যামন,"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "(ami)",
+  "words": [
+   "(আমি)",
+   "(অমি)",
+   "(আমই)",
+   "(এমই)"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "\"amar\"",
+  "words": [
+   "\"আমার\"",
+   "\"অমার\"",
+   "\"আম্মার\"",
+   "\"অম্বার\"",
+   "\"অ্যাম্বার\""
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "'tumi'",
+  "words": [
+   "'তুমি'",
+   "'তুমই'",
+   "'তুম্বি'",
+   "'তুম্বী'",
+   "'তুম্বই'"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ami.",
+  "words": [
+   "আমি।",
+   "অমি।",
+   "আমই।",
+   "এমই।"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "amar,",
+  "words": [
+   "আমার,",
+   "অমার,",
+   "আম্মার,",
+   "অম্বার,",
+   "অ্যাম্বার,"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "-ami-",
+  "words": [
+   "-আমি-",
+   "-অমি-",
+   "-আমই-",
+   "-এমই-"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": ":)",
+  "words": [
+   ":)",
+   "ঃ)"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": ":(",
+  "words": [
+   ":(",
+   "ঃ("
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": ":D",
+  "words": [
+   ":D",
+   "ঃড"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": ";)",
+  "words": [
+   ";)",
+   ";)"
+  ],
+  "prevSelection": 1
+ },
+ {
+  "input": ":-)",
+  "words": [
+   ":-)",
+   "ঃ-)"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "<3",
+  "words": [
+   "<3",
+   "<৩"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "&",
+  "words": [
+   "&ও",
+   "&"
+  ],
+  "prevSelection": 1
+ },
+ {
+  "input": "$",
+  "words": [
+   "৳"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "$100",
+  "words": [
+   "৳১০০"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "^",
+  "words": [
+   "ঁ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": ":",
+  "words": [
+   "ঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "h:",
+  "words": [
+   "হ",
+   "হঃ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bh^",
+  "words": [
+   "ভঁ",
+   "ভ",
+   "বহ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "chNd",
+  "words": [
+   "ছন্দ",
+   "চণ্ড",
+   "চন্দ",
+   "ছন্দঃ",
+   "ছণদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "chaNd",
+  "words": [
+   "ছাঁদ",
+   "চাঁদ",
+   "ছান্দ",
+   "চান্দ",
+   "ছাণদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "chaNdni",
+  "words": [
+   "চাঁদনি",
+   "ছাঁদনই",
+   "চাঁদনী",
+   "ছাণদনি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dNt",
+  "words": [
+   "দন্ত",
+   "দন্ত্য",
+   "দণত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oNk",
+  "words": [
+   "অংক",
+   "অঙ্ক",
+   "অণক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oNko",
+  "words": [
+   "অংক",
+   "অঙ্ক",
+   "অংকও",
+   "অঙ্কও",
+   "অণক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oNkur",
+  "words": [
+   "অংকুর",
+   "অঙ্কুর",
+   "অণকুর"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "toNni",
+  "words": [
+   "তন্নই",
+   "তন্বী",
+   "টোনি",
+   "টনি",
+   "তনই",
+   "ত্মনই",
+   "তোঁই",
+   "তঁই",
+   "তঙই",
+   "টোনই",
+   "টনই",
+   "টঙই",
+   "টোঙই",
+   "টোণই",
+   "তণ্নি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oShoni",
+  "words": [
+   "অশনি",
+   "অশনই",
+   "অসহনই",
+   "অষনি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "nW",
+  "words": [
+   "নও",
+   "ন্ব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dW",
+  "words": [
+   "দও",
+   "দ্ব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "koW",
+  "words": [
+   "কও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "sharee",
+  "words": [
+   "শারী",
+   "সারী",
+   "শারি",
+   "শাড়ী",
+   "সারি",
+   "সাড়ী",
+   "শাড়ি",
+   "সাড়ি",
+   "শেয়ারে",
+   "স্মঅরী",
+   "সারেয়ে",
+   "সাড়েয়ে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shaRi",
+  "words": [
+   "শাড়ি",
+   "সাড়ি",
+   "শারি",
+   "শাড়ী",
+   "সারি",
+   "সাড়ী",
+   "শারী",
+   "শারই",
+   "সাড়ই",
+   "সারী",
+   "সারই",
+   "শাঁরই",
+   "ষাঁড়ই",
+   "সঅরই",
+   "সাঁরই",
+   "সহারই",
+   "সয়ারই",
+   "শ্বারই",
+   "সার্বই",
+   "স্মঅরী"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "gaRi",
+  "words": [
+   "গাড়ি",
+   "গারি",
+   "গাড়ী",
+   "গাড়ই",
+   "গারী",
+   "গারই",
+   "গাঁড়ই",
+   "গ্যারি",
+   "গাঁরই",
+   "গয়ারই",
+   "জ্ঞারই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "gaari",
+  "words": [
+   "গারি",
+   "গারী",
+   "গাড়ি",
+   "গারই",
+   "গাঁরই",
+   "গাড়ী",
+   "গ্যারি",
+   "গয়ারই",
+   "গাড়ই",
+   "গাঁড়ই",
+   "জ্ঞারই",
+   "গাআরি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "baRi",
+  "words": [
+   "বাড়ি",
+   "বারি",
+   "বাড়ই",
+   "বাড়ী",
+   "বারই",
+   "বারী",
+   "বআরই",
+   "বাঁরই",
+   "বাঃরই",
+   "বয়ারই",
+   "ব্যাড়ই",
+   "বার্যই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "paRa",
+  "words": [
+   "পাড়া",
+   "পারা",
+   "প্যাড়া",
+   "পঅরা",
+   "পএরা",
+   "পয়ারা",
+   "প্যারা",
+   "প্যাঁড়া",
+   "প্যাঁরা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "paRe",
+  "words": [
+   "পাড়ে",
+   "পারে",
+   "পাঁড়ে",
+   "পঅরে",
+   "পএরে",
+   "পয়ারে",
+   "প্যাঁরে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "puRi",
+  "words": [
+   "পুড়ি",
+   "পুরি",
+   "পুড়ই",
+   "পুরী",
+   "পুরই",
+   "পূরী",
+   "পূরই",
+   "পূর্বই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dhorer",
+  "words": [
+   "ধরের",
+   "ধড়ের",
+   "দহরের",
+   "ধর্মের",
+   "ডহরের",
+   "ঢোঁড়ের",
+   "ধর্ম্যার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "oder",
+  "words": [
+   "অদের",
+   "ওদের",
+   "োদের",
+   "য়দের",
+   "ওঁদের",
+   "ওঃদের",
+   "অদ্যের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ader",
+  "words": [
+   "আদের",
+   "এদের",
+   "অদের",
+   "আঃদের",
+   "াদের",
+   "এঁদের",
+   "আদ্যের",
+   "এডের",
+   "অদ্যের",
+   "আদ্যার",
+   "অ্যাদের",
+   "অ্যাঁদের",
+   "অ্যাডের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kader",
+  "words": [
+   "কাদের",
+   "কাঁদের",
+   "কএদের",
+   "ক্যাদের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "tader",
+  "words": [
+   "তাদের",
+   "তাঁদের",
+   "টাদের",
+   "ট্যাঁদের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "jader",
+  "words": [
+   "জাদের",
+   "যাদের",
+   "জয়াদের",
+   "যাঁদের",
+   "জ্যাদের",
+   "জাড্যের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "koto",
+  "words": [
+   "কত",
+   "কট",
+   "কতো",
+   "কতও",
+   "কোট",
+   "কোঁত",
+   "কটও",
+   "কোটও",
+   "কোঁতও",
+   "ক্যোঁৎ",
+   "ক্যোঁতও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "joto",
+  "words": [
+   "জোত",
+   "জট",
+   "যত",
+   "জোট",
+   "যোত",
+   "যতো",
+   "জোতও",
+   "জটও",
+   "যতও",
+   "জোটও",
+   "যোতও",
+   "জত"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "toto",
+  "words": [
+   "তত",
+   "তওত",
+   "তট",
+   "ততঃ",
+   "ততো",
+   "ততও",
+   "তোতো",
+   "তওতও",
+   "তটও",
+   "ততঃও",
+   "টোটো"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "eta",
+  "words": [
+   "এটা",
+   "েটা",
+   "এতা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "ota",
+  "words": [
+   "অটা",
+   "ওটা",
+   "োটা",
+   "য়টা",
+   "ওঁটা",
+   "ওঃটা",
+   "অতা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "seta",
+  "words": [
+   "সেটা",
+   "সেঁতা",
+   "শেটা",
+   "শ্বেতা",
+   "শয়েটা",
+   "সেতা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kon",
+  "words": [
+   "কন",
+   "কওন",
+   "কোন",
+   "কণ",
+   "কোঁ",
+   "কোং",
+   "কোণ",
+   "কণ্ব",
+   "ক্বণ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "kothai",
+  "words": [
+   "কথাই",
+   "কোথাই",
+   "কোঠাই",
+   "কোঁথাই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "jabo",
+  "words": [
+   "জাব",
+   "যাব",
+   "জাবও",
+   "যাবো",
+   "যাবও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "jacchi",
+  "words": [
+   "যাচ্ছি",
+   "যাচ্ছই",
+   "জাচ্ছি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "jachchhi",
+  "words": [
+   "যাচ্ছি",
+   "যাচ্ছই",
+   "জাছছহি"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khabo",
+  "words": [
+   "খাব",
+   "খাবো",
+   "খাবও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khacchi",
+  "words": [
+   "খাচ্ছি",
+   "খাচ্ছই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khela",
+  "words": [
+   "খেলা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khelbo",
+  "words": [
+   "খেলব",
+   "খেলবো",
+   "খেলবও",
+   "খেল্ব"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dekha",
+  "words": [
+   "দেখা",
+   "দ্যাখা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dekhbo",
+  "words": [
+   "দেখব",
+   "দেখবো",
+   "দেখবও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dekhechi",
+  "words": [
+   "দেখেছি",
+   "দেখেছই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shuni",
+  "words": [
+   "শুনি",
+   "শুনী",
+   "শুনই",
+   "সুণি",
+   "সুনই",
+   "শূনই",
+   "সুঁই",
+   "সুণী",
+   "সুঙই",
+   "সুণই",
+   "শূন্যই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shunbo",
+  "words": [
+   "শুনব",
+   "শুনবো",
+   "শুনবও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bujhi",
+  "words": [
+   "বুঝি",
+   "বউঝি",
+   "বুঝই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bujhechi",
+  "words": [
+   "বুঝেছি",
+   "বুঝেছই"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bujhlam",
+  "words": [
+   "বুঝলাম"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "hoyeche",
+  "words": [
+   "হয়েছে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "hoye",
+  "words": [
+   "হয়ে",
+   "হইয়ে",
+   "হোয়ে",
+   "হওয়ে",
+   "হয়য়ে",
+   "হওঁয়ে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "hobe",
+  "words": [
+   "হবে",
+   "হব্যে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "hoy",
+  "words": [
+   "হয়",
+   "হোয়",
+   "হওয়",
+   "হয়য়",
+   "হওঁয়"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "hoyto",
+  "words": [
+   "হয়ত",
+   "হোয়ত",
+   "হয়তো",
+   "হয়তও",
+   "হোয়তও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "hoito",
+  "words": [
+   "হইত",
+   "হিত",
+   "হইতও",
+   "হিট",
+   "হিতও",
+   "হিটও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "thik",
+  "words": [
+   "থিক",
+   "ঠিক"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "thike",
+  "words": [
+   "থিকে",
+   "ঠিকে",
+   "থইকে",
+   "তহিকে",
+   "তহইকে",
+   "তহিঁকে"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "achha",
+  "words": [
+   "আছা",
+   "আচা",
+   "আঁচা",
+   "আছহা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "accha",
+  "words": [
+   "আচ্ছা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dhonnobad",
+  "words": [
+   "ধন্যবাদ",
+   "ধন্নবাদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "dhonyobad",
+  "words": [
+   "ধন্যবাদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shuvo",
+  "words": [
+   "শুভ",
+   "শুভও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "subho",
+  "words": [
+   "শুভ",
+   "সুবহ",
+   "শুভও",
+   "সুবহও",
+   "সুভ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "shubho",
+  "words": [
+   "শুভ",
+   "শুভও",
+   "সুবহ",
+   "সুবহও"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "nobobarsho",
+  "words": [
+   "নববারশ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "jonmodin",
+  "words": [
+   "জন্মদিন"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "eid",
+  "words": [
+   "ঈদ",
+   "এইড",
+   "এইদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "eider",
+  "words": [
+   "এইদের",
+   "এইডের",
+   "ঈদের"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "puja",
+  "words": [
+   "পূজা",
+   "পুজা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "pujar",
+  "words": [
+   "পূজার",
+   "পুজার"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "islam",
+  "words": [
+   "ইসলাম",
+   "ইস্লাম"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "allah",
+  "words": [
+   "আল্লাহ",
+   "আল্লাহ্‌"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "muhammad",
+  "words": [
+   "মুহাম্মাদ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "bismillah",
+  "words": [
+   "বিসমিল্লাহ",
+   "বিসমিল্লাহ্‌",
+   "বিস্মিল্লাহ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "assalamualaikum",
+  "words": [
+   "আসসালামুয়ালাইকুম"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "khuda",
+  "words": [
+   "খুদা"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "haphej",
+  "words": [
+   "হাফেজ"
+  ],
+  "prevSelection": 0
+ },
+ {
+  "input": "hafez",
+  "words": [
+   "হাফেয"
+  ],
+  "prevSelection": 0
+ }
+]

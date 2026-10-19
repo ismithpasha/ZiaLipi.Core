@@ -1,0 +1,1186 @@
+[
+ {
+  "input": "ami",
+  "output": "আমি"
+ },
+ {
+  "input": "amar",
+  "output": "আমার"
+ },
+ {
+  "input": "tumi",
+  "output": "তুমি"
+ },
+ {
+  "input": "tomar",
+  "output": "তমার"
+ },
+ {
+  "input": "apni",
+  "output": "আপ্নি"
+ },
+ {
+  "input": "apnar",
+  "output": "আপ্নার"
+ },
+ {
+  "input": "se",
+  "output": "সে"
+ },
+ {
+  "input": "tara",
+  "output": "তারা"
+ },
+ {
+  "input": "amra",
+  "output": "আম্রা"
+ },
+ {
+  "input": "bangla",
+  "output": "বাংলা"
+ },
+ {
+  "input": "banglay",
+  "output": "বাংলায়"
+ },
+ {
+  "input": "bangladesh",
+  "output": "বাংলাদেশ"
+ },
+ {
+  "input": "bangladeshe",
+  "output": "বাংলাদেশে"
+ },
+ {
+  "input": "bangladesher",
+  "output": "বাংলাদেশের"
+ },
+ {
+  "input": "bangladeshi",
+  "output": "বাংলাদেশি"
+ },
+ {
+  "input": "bhalo",
+  "output": "ভাল"
+ },
+ {
+  "input": "bhalobasha",
+  "output": "ভালবাশা"
+ },
+ {
+  "input": "bhalobasi",
+  "output": "ভালবাসি"
+ },
+ {
+  "input": "valo",
+  "output": "ভাল"
+ },
+ {
+  "input": "kemon",
+  "output": "কেমন"
+ },
+ {
+  "input": "kemon acho",
+  "output": "কেমন আছ"
+ },
+ {
+  "input": "achi",
+  "output": "আছি"
+ },
+ {
+  "input": "achen",
+  "output": "আছেন"
+ },
+ {
+  "input": "ki",
+  "output": "কি"
+ },
+ {
+  "input": "kI",
+  "output": "কী"
+ },
+ {
+  "input": "kii",
+  "output": "কিই"
+ },
+ {
+  "input": "koro",
+  "output": "কর"
+ },
+ {
+  "input": "korchi",
+  "output": "করছি"
+ },
+ {
+  "input": "korbo",
+  "output": "করব"
+ },
+ {
+  "input": "korechi",
+  "output": "করেছি"
+ },
+ {
+  "input": "kotha",
+  "output": "কথা"
+ },
+ {
+  "input": "kothay",
+  "output": "কথায়"
+ },
+ {
+  "input": "kono",
+  "output": "কন"
+ },
+ {
+  "input": "kokhono",
+  "output": "কখন"
+ },
+ {
+  "input": "shob",
+  "output": "শব"
+ },
+ {
+  "input": "sob",
+  "output": "সব"
+ },
+ {
+  "input": "shokal",
+  "output": "শকাল"
+ },
+ {
+  "input": "sokal",
+  "output": "সকাল"
+ },
+ {
+  "input": "bikel",
+  "output": "বিকেল"
+ },
+ {
+  "input": "rat",
+  "output": "রাত"
+ },
+ {
+  "input": "din",
+  "output": "দিন"
+ },
+ {
+  "input": "ajke",
+  "output": "আজকে"
+ },
+ {
+  "input": "kalke",
+  "output": "কাল্কে"
+ },
+ {
+  "input": "porshu",
+  "output": "পরশু"
+ },
+ {
+  "input": "shonibar",
+  "output": "শনিবার"
+ },
+ {
+  "input": "robibar",
+  "output": "রবিবার"
+ },
+ {
+  "input": "bondhu",
+  "output": "বন্ধু"
+ },
+ {
+  "input": "bondhura",
+  "output": "বন্ধুরা"
+ },
+ {
+  "input": "manush",
+  "output": "মানুশ"
+ },
+ {
+  "input": "manusher",
+  "output": "মানুশের"
+ },
+ {
+  "input": "desh",
+  "output": "দেশ"
+ },
+ {
+  "input": "desher",
+  "output": "দেশের"
+ },
+ {
+  "input": "ma",
+  "output": "মা"
+ },
+ {
+  "input": "baba",
+  "output": "বাবা"
+ },
+ {
+  "input": "bhai",
+  "output": "ভাই"
+ },
+ {
+  "input": "bon",
+  "output": "বন"
+ },
+ {
+  "input": "boi",
+  "output": "বই"
+ },
+ {
+  "input": "bOi",
+  "output": "বোই"
+ },
+ {
+  "input": "pORa",
+  "output": "পোড়া"
+ },
+ {
+  "input": "pora",
+  "output": "পরা"
+ },
+ {
+  "input": "lekha",
+  "output": "লেখা"
+ },
+ {
+  "input": "likhi",
+  "output": "লিখি"
+ },
+ {
+  "input": "lekhok",
+  "output": "লেখক"
+ },
+ {
+  "input": "kobita",
+  "output": "কবিতা"
+ },
+ {
+  "input": "golpo",
+  "output": "গল্প"
+ },
+ {
+  "input": "gan",
+  "output": "গান"
+ },
+ {
+  "input": "gai",
+  "output": "গাই"
+ },
+ {
+  "input": "ami banglay gan gai",
+  "output": "আমি বাংলায় গান গাই"
+ },
+ {
+  "input": "amar sOnar bangla ami tomay bhalobasi",
+  "output": "আমার সোনার বাংলা আমি তমায় ভালবাসি"
+ },
+ {
+  "input": "ekushe",
+  "output": "একুশে"
+ },
+ {
+  "input": "fagun",
+  "output": "ফাগুন"
+ },
+ {
+  "input": "shohid",
+  "output": "শহিদ"
+ },
+ {
+  "input": "minar",
+  "output": "মিনার"
+ },
+ {
+  "input": "shadhinota",
+  "output": "শাধিনতা"
+ },
+ {
+  "input": "muktijuddho",
+  "output": "মুক্তিজুদ্ধ"
+ },
+ {
+  "input": "juddho",
+  "output": "জুদ্ধ"
+ },
+ {
+  "input": "srishti",
+  "output": "স্রিশ্তি"
+ },
+ {
+  "input": "kSoma",
+  "output": "কশমা"
+ },
+ {
+  "input": "khoma",
+  "output": "খমা"
+ },
+ {
+  "input": "khOma",
+  "output": "খোমা"
+ },
+ {
+  "input": "oikko",
+  "output": "অইক্ক"
+ },
+ {
+  "input": "oitijjho",
+  "output": "অইতিজ্ঝ"
+ },
+ {
+  "input": "rritu",
+  "output": "ঋতু"
+ },
+ {
+  "input": "Rritu",
+  "output": "ড়্রিতু"
+ },
+ {
+  "input": "uchchharon",
+  "output": "উছছহারন"
+ },
+ {
+  "input": "bigyan",
+  "output": "বিগ্যান"
+ },
+ {
+  "input": "biggan",
+  "output": "বিজ্ঞান"
+ },
+ {
+  "input": "gyan",
+  "output": "গ্যান"
+ },
+ {
+  "input": "jnan",
+  "output": "জনান"
+ },
+ {
+  "input": "proshno",
+  "output": "প্রশ্ন"
+ },
+ {
+  "input": "uttor",
+  "output": "উত্তর"
+ },
+ {
+  "input": "porikkha",
+  "output": "পরিক্ষা"
+ },
+ {
+  "input": "porikkhay",
+  "output": "পরিক্ষায়"
+ },
+ {
+  "input": "shikkhok",
+  "output": "শিক্ষক"
+ },
+ {
+  "input": "chhatro",
+  "output": "ছহাত্র"
+ },
+ {
+  "input": "chatro",
+  "output": "ছাত্র"
+ },
+ {
+  "input": "chhatri",
+  "output": "ছহাত্রি"
+ },
+ {
+  "input": "bidyaloy",
+  "output": "বিদ্যালয়"
+ },
+ {
+  "input": "bishshobidyaloy",
+  "output": "বিশশবিদ্যালয়"
+ },
+ {
+  "input": "biswobidyalay",
+  "output": "বিস্ববিদ্যালায়"
+ },
+ {
+  "input": "britti",
+  "output": "ব্রিত্তি"
+ },
+ {
+  "input": "sritu",
+  "output": "স্রিতু"
+ },
+ {
+  "input": "krishok",
+  "output": "ক্রিশক"
+ },
+ {
+  "input": "krishi",
+  "output": "ক্রিশি"
+ },
+ {
+  "input": "graam",
+  "output": "গ্রাআম"
+ },
+ {
+  "input": "gram",
+  "output": "গ্রাম"
+ },
+ {
+  "input": "shohor",
+  "output": "শহর"
+ },
+ {
+  "input": "nodi",
+  "output": "নদি"
+ },
+ {
+  "input": "pakhi",
+  "output": "পাখি"
+ },
+ {
+  "input": "phul",
+  "output": "ফুল"
+ },
+ {
+  "input": "ful",
+  "output": "ফুল"
+ },
+ {
+  "input": "bagan",
+  "output": "বাগান"
+ },
+ {
+  "input": "akash",
+  "output": "আকাশ"
+ },
+ {
+  "input": "batash",
+  "output": "বাতাশ"
+ },
+ {
+  "input": "bristi",
+  "output": "ব্রিস্তি"
+ },
+ {
+  "input": "brishti",
+  "output": "ব্রিশ্তি"
+ },
+ {
+  "input": "megh",
+  "output": "মেঘ"
+ },
+ {
+  "input": "roud",
+  "output": "রউদ"
+ },
+ {
+  "input": "shit",
+  "output": "শিত"
+ },
+ {
+  "input": "grishmo",
+  "output": "গ্রিশ্ম"
+ },
+ {
+  "input": "borsha",
+  "output": "বরশা"
+ },
+ {
+  "input": "sheet",
+  "output": "শীত"
+ },
+ {
+  "input": "kolkata",
+  "output": "কল্কাতা"
+ },
+ {
+  "input": "dhaka",
+  "output": "ধাকা"
+ },
+ {
+  "input": "chottogram",
+  "output": "ছত্তগ্রাম"
+ },
+ {
+  "input": "sylhet",
+  "output": "স্যলহেত"
+ },
+ {
+  "input": "rajshahi",
+  "output": "রাজশাহি"
+ },
+ {
+  "input": "khulna",
+  "output": "খুলনা"
+ },
+ {
+  "input": "borishal",
+  "output": "বরিশাল"
+ },
+ {
+  "input": "rongpur",
+  "output": "রংপুর"
+ },
+ {
+  "input": "moymonshingho",
+  "output": "ময়মনশিঙ্ঘ"
+ },
+ {
+  "input": "computer",
+  "output": "চম্পুতের"
+ },
+ {
+  "input": "kompiutar",
+  "output": "কম্পিউতার"
+ },
+ {
+  "input": "internet",
+  "output": "ইন্তেরনেত"
+ },
+ {
+  "input": "mobile",
+  "output": "মবিলে"
+ },
+ {
+  "input": "phone",
+  "output": "ফনে"
+ },
+ {
+  "input": "fon",
+  "output": "ফন"
+ },
+ {
+  "input": "keyboard",
+  "output": "কেয়বয়ারদ"
+ },
+ {
+  "input": "software",
+  "output": "সফত্বারে"
+ },
+ {
+  "input": "x",
+  "output": "এক্স"
+ },
+ {
+  "input": "xon",
+  "output": "এক্সন"
+ },
+ {
+  "input": "xyz",
+  "output": "এক্স্যয"
+ },
+ {
+  "input": "t``",
+  "output": "ৎ"
+ },
+ {
+  "input": "bt``",
+  "output": "বৎ"
+ },
+ {
+  "input": "uthsob",
+  "output": "উথসব"
+ },
+ {
+  "input": "utsob",
+  "output": "উতসব"
+ },
+ {
+  "input": "otishi",
+  "output": "অতিশি"
+ },
+ {
+  "input": "odbhut",
+  "output": "অদ্ভুত"
+ },
+ {
+  "input": "adbhut",
+  "output": "আদ্ভুত"
+ },
+ {
+  "input": "aaj",
+  "output": "আআজ"
+ },
+ {
+  "input": "aj",
+  "output": "আজ"
+ },
+ {
+  "input": "O",
+  "output": "ও"
+ },
+ {
+  "input": "o",
+  "output": "অ"
+ },
+ {
+  "input": "A",
+  "output": "আ"
+ },
+ {
+  "input": "a",
+  "output": "আ"
+ },
+ {
+  "input": "e",
+  "output": "এ"
+ },
+ {
+  "input": "E",
+  "output": "এ"
+ },
+ {
+  "input": "i",
+  "output": "ই"
+ },
+ {
+  "input": "I",
+  "output": "ঈ"
+ },
+ {
+  "input": "u",
+  "output": "উ"
+ },
+ {
+  "input": "U",
+  "output": "ঊ"
+ },
+ {
+  "input": "oi",
+  "output": "অই"
+ },
+ {
+  "input": "OI",
+  "output": "ঐ"
+ },
+ {
+  "input": "ou",
+  "output": "অউ"
+ },
+ {
+  "input": "OU",
+  "output": "ঔ"
+ },
+ {
+  "input": "rri",
+  "output": "ঋ"
+ },
+ {
+  "input": "ng",
+  "output": "ং"
+ },
+ {
+  "input": "NG",
+  "output": "ঞ"
+ },
+ {
+  "input": "khn",
+  "output": "খন"
+ },
+ {
+  "input": "sh",
+  "output": "শ"
+ },
+ {
+  "input": "Sh",
+  "output": "ষ"
+ },
+ {
+  "input": "S",
+  "output": "শ"
+ },
+ {
+  "input": "ss",
+  "output": "সস"
+ },
+ {
+  "input": "R",
+  "output": "ড়"
+ },
+ {
+  "input": "Rh",
+  "output": "ঢ়"
+ },
+ {
+  "input": "y",
+  "output": "ইয়"
+ },
+ {
+  "input": "Y",
+  "output": "য়"
+ },
+ {
+  "input": "w",
+  "output": "ও"
+ },
+ {
+  "input": "W",
+  "output": "ও"
+ },
+ {
+  "input": "q",
+  "output": "ক"
+ },
+ {
+  "input": "Q",
+  "output": "ক"
+ },
+ {
+  "input": "z",
+  "output": "য"
+ },
+ {
+  "input": "Z",
+  "output": "্য"
+ },
+ {
+  "input": "j",
+  "output": "জ"
+ },
+ {
+  "input": "J",
+  "output": "জ"
+ },
+ {
+  "input": "k",
+  "output": "ক"
+ },
+ {
+  "input": "K",
+  "output": "ক"
+ },
+ {
+  "input": "n",
+  "output": "ন"
+ },
+ {
+  "input": "N",
+  "output": "ণ"
+ },
+ {
+  "input": "1234567890",
+  "output": "১২৩৪৫৬৭৮৯০"
+ },
+ {
+  "input": "2024",
+  "output": "২০২৪"
+ },
+ {
+  "input": "100tk",
+  "output": "১০০তক"
+ },
+ {
+  "input": ".",
+  "output": "।"
+ },
+ {
+  "input": "..",
+  "output": "।।"
+ },
+ {
+  "input": "...",
+  "output": "..."
+ },
+ {
+  "input": ",,",
+  "output": "্‌"
+ },
+ {
+  "input": "ki?",
+  "output": "কি?"
+ },
+ {
+  "input": "ki!",
+  "output": "কি!"
+ },
+ {
+  "input": "kemon,",
+  "output": "কেমন,"
+ },
+ {
+  "input": "(ami)",
+  "output": "(আমি)"
+ },
+ {
+  "input": "\"amar\"",
+  "output": "\"আমার\""
+ },
+ {
+  "input": "'tumi'",
+  "output": "'তুমি'"
+ },
+ {
+  "input": "ami.",
+  "output": "আমি।"
+ },
+ {
+  "input": "amar,",
+  "output": "আমার,"
+ },
+ {
+  "input": "-ami-",
+  "output": "-আমি-"
+ },
+ {
+  "input": ":)",
+  "output": "ঃ)"
+ },
+ {
+  "input": ":(",
+  "output": "ঃ("
+ },
+ {
+  "input": ":D",
+  "output": "ঃড"
+ },
+ {
+  "input": ";)",
+  "output": ";)"
+ },
+ {
+  "input": ":-)",
+  "output": "ঃ-)"
+ },
+ {
+  "input": "<3",
+  "output": "<৩"
+ },
+ {
+  "input": "&",
+  "output": "&"
+ },
+ {
+  "input": "$",
+  "output": "৳"
+ },
+ {
+  "input": "$100",
+  "output": "৳১০০"
+ },
+ {
+  "input": "^",
+  "output": "ঁ"
+ },
+ {
+  "input": ":",
+  "output": "ঃ"
+ },
+ {
+  "input": "h:",
+  "output": "হঃ"
+ },
+ {
+  "input": "bh^",
+  "output": "ভঁ"
+ },
+ {
+  "input": "chNd",
+  "output": "ছণদ"
+ },
+ {
+  "input": "chaNd",
+  "output": "ছাণদ"
+ },
+ {
+  "input": "chaNdni",
+  "output": "ছাণদনি"
+ },
+ {
+  "input": "dNt",
+  "output": "দণত"
+ },
+ {
+  "input": "oNk",
+  "output": "অণক"
+ },
+ {
+  "input": "oNko",
+  "output": "অণক"
+ },
+ {
+  "input": "oNkur",
+  "output": "অণকুর"
+ },
+ {
+  "input": "toNni",
+  "output": "তণ্নি"
+ },
+ {
+  "input": "oShoni",
+  "output": "অষনি"
+ },
+ {
+  "input": "nW",
+  "output": "ন্ব"
+ },
+ {
+  "input": "dW",
+  "output": "দ্ব"
+ },
+ {
+  "input": "koW",
+  "output": "কও"
+ },
+ {
+  "input": "sharee",
+  "output": "শারী"
+ },
+ {
+  "input": "shaRi",
+  "output": "শাড়ি"
+ },
+ {
+  "input": "gaRi",
+  "output": "গাড়ি"
+ },
+ {
+  "input": "gaari",
+  "output": "গাআরি"
+ },
+ {
+  "input": "baRi",
+  "output": "বাড়ি"
+ },
+ {
+  "input": "paRa",
+  "output": "পাড়া"
+ },
+ {
+  "input": "paRe",
+  "output": "পাড়ে"
+ },
+ {
+  "input": "puRi",
+  "output": "পুড়ি"
+ },
+ {
+  "input": "dhorer",
+  "output": "ধরের"
+ },
+ {
+  "input": "oder",
+  "output": "অদের"
+ },
+ {
+  "input": "ader",
+  "output": "আদের"
+ },
+ {
+  "input": "kader",
+  "output": "কাদের"
+ },
+ {
+  "input": "tader",
+  "output": "তাদের"
+ },
+ {
+  "input": "jader",
+  "output": "জাদের"
+ },
+ {
+  "input": "koto",
+  "output": "কত"
+ },
+ {
+  "input": "joto",
+  "output": "জত"
+ },
+ {
+  "input": "toto",
+  "output": "তত"
+ },
+ {
+  "input": "eta",
+  "output": "এতা"
+ },
+ {
+  "input": "ota",
+  "output": "অতা"
+ },
+ {
+  "input": "seta",
+  "output": "সেতা"
+ },
+ {
+  "input": "kon",
+  "output": "কন"
+ },
+ {
+  "input": "kothai",
+  "output": "কথাই"
+ },
+ {
+  "input": "jabo",
+  "output": "জাব"
+ },
+ {
+  "input": "jacchi",
+  "output": "জাচ্ছি"
+ },
+ {
+  "input": "jachchhi",
+  "output": "জাছছহি"
+ },
+ {
+  "input": "khabo",
+  "output": "খাব"
+ },
+ {
+  "input": "khacchi",
+  "output": "খাচ্ছি"
+ },
+ {
+  "input": "khela",
+  "output": "খেলা"
+ },
+ {
+  "input": "khelbo",
+  "output": "খেল্ব"
+ },
+ {
+  "input": "dekha",
+  "output": "দেখা"
+ },
+ {
+  "input": "dekhbo",
+  "output": "দেখব"
+ },
+ {
+  "input": "dekhechi",
+  "output": "দেখেছি"
+ },
+ {
+  "input": "shuni",
+  "output": "শুনি"
+ },
+ {
+  "input": "shunbo",
+  "output": "শুনব"
+ },
+ {
+  "input": "bujhi",
+  "output": "বুঝি"
+ },
+ {
+  "input": "bujhechi",
+  "output": "বুঝেছি"
+ },
+ {
+  "input": "bujhlam",
+  "output": "বুঝলাম"
+ },
+ {
+  "input": "hoyeche",
+  "output": "হয়েছে"
+ },
+ {
+  "input": "hoye",
+  "output": "হয়ে"
+ },
+ {
+  "input": "hobe",
+  "output": "হবে"
+ },
+ {
+  "input": "hoy",
+  "output": "হয়"
+ },
+ {
+  "input": "hoyto",
+  "output": "হয়ত"
+ },
+ {
+  "input": "hoito",
+  "output": "হইত"
+ },
+ {
+  "input": "thik",
+  "output": "থিক"
+ },
+ {
+  "input": "thike",
+  "output": "থিকে"
+ },
+ {
+  "input": "achha",
+  "output": "আছহা"
+ },
+ {
+  "input": "accha",
+  "output": "আচ্ছা"
+ },
+ {
+  "input": "dhonnobad",
+  "output": "ধন্নবাদ"
+ },
+ {
+  "input": "dhonyobad",
+  "output": "ধন্যবাদ"
+ },
+ {
+  "input": "shuvo",
+  "output": "শুভ"
+ },
+ {
+  "input": "subho",
+  "output": "সুভ"
+ },
+ {
+  "input": "shubho",
+  "output": "শুভ"
+ },
+ {
+  "input": "nobobarsho",
+  "output": "নববারশ"
+ },
+ {
+  "input": "jonmodin",
+  "output": "জন্মদিন"
+ },
+ {
+  "input": "eid",
+  "output": "এইদ"
+ },
+ {
+  "input": "eider",
+  "output": "এইদের"
+ },
+ {
+  "input": "puja",
+  "output": "পুজা"
+ },
+ {
+  "input": "pujar",
+  "output": "পুজার"
+ },
+ {
+  "input": "islam",
+  "output": "ইস্লাম"
+ },
+ {
+  "input": "allah",
+  "output": "আল্লাহ"
+ },
+ {
+  "input": "muhammad",
+  "output": "মুহাম্মাদ"
+ },
+ {
+  "input": "bismillah",
+  "output": "বিস্মিল্লাহ"
+ },
+ {
+  "input": "assalamualaikum",
+  "output": "আসসালামুয়ালাইকুম"
+ },
+ {
+  "input": "khuda",
+  "output": "খুদা"
+ },
+ {
+  "input": "haphej",
+  "output": "হাফেজ"
+ },
+ {
+  "input": "hafez",
+  "output": "হাফেয"
+ }
+]

@@ -21,5 +21,6 @@ public interface ISuggestionExtension
     /// <param name="baseCandidates">Base dictionary words, including suffixed forms.</param>
     /// <param name="extensionCandidates">Words from <see cref="FindWords"/>, including suffixed forms.</param>
     /// <param name="phonetic">The plain phonetic conversion of what was typed.</param>
-    IEnumerable<string>? Order(IReadOnlyList<string> baseCandidates, IReadOnlyList<string> extensionCandidates, string phonetic);
+    /// <param name="romanWord">What was typed, without punctuation (case kept).</param>
+    IEnumerable<string>? Order(IReadOnlyList<string> baseCandidates, IReadOnlyList<string> extensionCandidates, string phonetic, string romanWord);
 }

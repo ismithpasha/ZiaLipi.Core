@@ -110,7 +110,7 @@ public sealed partial class SuggestionBuilder
         }
         // Default, like the original: the base dictionary's list, unchanged, then
         // the extension's words after it (so they only add, never reorder).
-        var ordered = _extension?.Order(baseCandidates, extraCandidates, phonetic)
+        var ordered = _extension?.Order(baseCandidates, extraCandidates, phonetic, middle)
             ?? [.. ByDistance(baseCandidates, phonetic), .. ByDistance(extraCandidates, phonetic)];
         foreach (var w in ordered)
             AddUnique(words, w);
